@@ -1,4 +1,4 @@
-# ikegamike.com
+# ikegamike
 My forum.
 
 ## that is my forum for practice
